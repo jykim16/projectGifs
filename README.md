@@ -1,6 +1,9 @@
 # projectGifs
 All Collected Gifs of Projects
 
+## *Thu, Nov 2, 2017* - Locator: Finds Best Meeting Location Based on 2 Addresses
+![Locator: 2 point location][locator]
+
 ## *Fri, Oct 30, 2017* - Tic-Sock-IO: tictactoe implemented with Socket.IO
 ![Tic-Sock-IO: Multiplyer Tic-Tac-Toe][socket]
 
@@ -34,3 +37,4 @@ All Collected Gifs of Projects
 [maps]: https://github.com/jykim16/projectGifs/raw/master/MapsChallenge.gif "Zenefits Challenge"
 [justice]: https://github.com/jykim16/projectGifs/raw/master/JusticeMatch.gif "Women Who Code Hackathon"
 [socket]: https://github.com/jykim16/projectGifs/raw/master/Tic-sock-io.gif "Invitae Challenge"
+[locator]: https://github.com/jykim16/projectGifs/raw/master/Locator.gif "Amne Challenge"
