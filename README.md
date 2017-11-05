@@ -1,6 +1,9 @@
 # projectGifs
 All Collected Gifs of Projects
 
+## *Sun, Nov 5, 2017* - TargetBot: A red-shirt wearing bot for your Target in-store needs!
+![TargetBot: Bot for Target][bot]
+
 ## *Thu, Nov 2, 2017* - Locator: Finds Best Meeting Location Based on 2 Addresses
 ![Locator: 2 point location][locator]
 
@@ -28,7 +31,6 @@ All Collected Gifs of Projects
 ## *Mon, Aug 21, 2017* - Tweetrics: Twitter User's Tweet Analysis
 ![Tweetrics: Job Applications Tracker][tweet]
 
-
 [tweet]: https://github.com/jykim16/projectGifs/raw/master/Tweetrics.gif "Fearless Pumpkin Project"
 [avalo]: https://github.com/jykim16/projectGifs/raw/master/Avalo.gif "Octagonal Octopus Project"
 [offer]: https://github.com/jykim16/projectGifs/raw/master/OfferOverflow.gif "Symbolic Gesture Project"
@@ -38,3 +40,4 @@ All Collected Gifs of Projects
 [justice]: https://github.com/jykim16/projectGifs/raw/master/JusticeMatch.gif "Women Who Code Hackathon"
 [socket]: https://github.com/jykim16/projectGifs/raw/master/Tic-sock-io.gif "Invitae Challenge"
 [locator]: https://github.com/jykim16/projectGifs/raw/master/Locator.gif "Amne Challenge"
+[bot]: https://github.com/jykim16/projectGifs/raw/master/TargetBot.gif "Dashbot Hackathon"
