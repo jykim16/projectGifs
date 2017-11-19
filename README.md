@@ -1,6 +1,9 @@
 # projectGifs
 All Collected Gifs of Projects
 
+## *Sat, Nov 18, 2017* - Hilton Carbon Dashboard: Give hotel guests awards for hitting globe-saving goals!
+![CO2 Dashboard: Hotel Guest Carbon Footprint Awareness][CO2]
+
 ## *Sun, Nov 5, 2017* - TargetBot: A red-shirt wearing bot for your Target in-store needs!
 ![TargetBot: Bot for Target][bot]
 
@@ -41,3 +44,4 @@ All Collected Gifs of Projects
 [socket]: https://github.com/jykim16/projectGifs/raw/master/Tic-sock-io.gif "Invitae Challenge"
 [locator]: https://github.com/jykim16/projectGifs/raw/master/Locator.gif "Amne Challenge"
 [bot]: https://github.com/jykim16/projectGifs/raw/master/TargetBot.gif "Dashbot Hackathon"
+[CO2]: https://github.com/jykim16/projectGifs/raw/master/CO2Dashboard.gif "Climate Hackathon"
